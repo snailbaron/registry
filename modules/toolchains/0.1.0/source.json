@@ -1,3 +1,5 @@
 {
-    "type": "git_reporitory"
+    "type": "git_repository",
+    "remote": "https://github.com/snailbaron/toolchains.git",
+    "commit": "v0.1.0"
 }
