@@ -1,0 +1,5 @@
+{
+    "type": "git_repository",
+    "remote": "https://github.com/snailbaron/bazel-compilation-database",
+    "commit": "0564df875bf9b9f32da5927a95d888ef9244b296"
+}
