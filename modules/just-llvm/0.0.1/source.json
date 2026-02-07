@@ -1,0 +1,5 @@
+{
+    "type": "git_repository",
+    "remote": "https://github.com/snailbaron/just-llvm",
+    "commit": "0a9365f4d27d914f3ea0a05cc26bd32002117f61"
+}
